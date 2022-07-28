@@ -17,7 +17,7 @@ machine.
 
 Assumptions made :
 
-- supported coins denomination is [5 pence, 10 pence, 20 pence, 50 pence, 1 pound, 2 pound]
+- supported coins denomination are [5 pence, 10 pence, 20 pence, 50 pence, 1 pound, 2 pound]
 - Product-value is taken from user as a parameter
 
 Files structure : 
